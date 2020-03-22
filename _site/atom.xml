@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Blog</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2020-03-22T17:17:39-04:00</updated>
- <id>http://localhost:4000</id>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2020-03-22T17:22:50-04:00</updated>
+ <id></id>
  <author>
    <name></name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Hello, world!</title>
-   <link href="http://localhost:4000/2020/03/22/hello-world"/>
+   <link href="/2020/03/22/hello-world"/>
    <updated>2020-03-22T00:00:00-04:00</updated>
-   <id>http://localhost:4000/2020/03/22/hello-world</id>
+   <id>/2020/03/22/hello-world</id>
    <content type="html">&lt;p&gt;Hello, world!&lt;/p&gt;
 </content>
  </entry>

@@ -1,11 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "Blog",
-    "home_page_url": "http://localhost:4000/",
-    "feed_url": "http://localhost:4000/feed.json",
+    "home_page_url": "/",
+    "feed_url": "/feed.json",
     "description": "This is my blog",
-    "icon": "http://localhost:4000/apple-touch-icon.png",
-    "favicon": "http://localhost:4000/favicon.ico",
+    "icon": "/apple-touch-icon.png",
+    "favicon": "/favicon.ico",
     "expired": false,
     
     "author": "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}",
@@ -13,12 +13,12 @@
 "items": [
     
         {
-            "id": "http://localhost:4000/2020/03/22/hello-world",
+            "id": "/2020/03/22/hello-world",
             "title": "Hello, world!",
             "summary": null,
             "content_text": "Hello, world!",
             "content_html": "<p>Hello, world!</p>",
-            "url": "http://localhost:4000/2020/03/22/hello-world",
+            "url": "/2020/03/22/hello-world",
             
             
             
